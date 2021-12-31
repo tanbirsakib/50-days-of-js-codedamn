@@ -4,6 +4,7 @@
 
 ###  String can also be reversed by converting it to array, then joining it after reversing
 
-reverseAString("JavaScript is awesome") should return "emosewa si tpircSavaJ"
-reverseAString("Peter Parker is Spiderman") should return "namredipS si rekraP reteP"
-reverseAString("codedamn") should return "nmadedoc"
+## `Test Cases`
+*reverseAString("JavaScript is awesome") should return "emosewa si tpircSavaJ"*
+*reverseAString("Peter Parker is Spiderman") should return "namredipS si rekraP reteP"*
+*reverseAString("codedamn") should return "nmadedoc"*
